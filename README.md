@@ -10,7 +10,7 @@
 
 [<img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/telegram.svg"/>][myTelegram]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/linkedin.svg"/>][LinkedIn]
-[<img align="left" alt="Instagram developer account" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/telegram.svg"/>][DevInst]
+[<img align="left" alt="Instagram developer account" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/instagram.svg"/>][DevInst]
 [<img align="left" alt="Instagram sports account" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/instagram.svg"/>][SportInst]
 [<img align="left" alt="My Telegram channel about game development" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/telegram.svg"/>][TelegramChannel]
 
@@ -19,7 +19,7 @@
 ### Languages and Tools:
 
 <img align="left" alt="C#" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/csharp.svg"/>
-<img align="left" alt="Unity Engine" width="26px" style="backgroundColor:#fff" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/unity.svg"/>
+<img align="left" alt="Unity Engine" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/unity.svg"/>
 <img align="left" alt="Visual Studio" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/visualstudio.svg"/>
 
 <br/>
