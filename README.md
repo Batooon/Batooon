@@ -25,6 +25,8 @@
 <br/>
 <br/>
 
+<img align="left" alt="Batooon's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Batooon&show_icons=true&theme=radical">
+
 [myTelegram]: https://t.me/AntoonBatoon
 [LinkedIn]: https://www.linkedin.com/in/anton-rozum-77317b1a1/
 [DevInst]: https://www.instagram.com/game.devlpr/
