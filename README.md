@@ -22,15 +22,18 @@
 <img align="left" alt="Unity Engine" width="26px" background-color="white" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/unity.svg"/>
 <img align="left" alt="Visual Studio" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/visualstudio.svg"/>
 
+<br/>
+<br/>
+
 ---
 
-<br/>
 <br/>
 
 <img align="left" alt="Batooon's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Batooon&show_icons=true&theme=dark">
 
 <br/>
 ---
+<br/>
 
 <img align="left" alt="Wakatime week stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Batooon&theme=dark">
 
