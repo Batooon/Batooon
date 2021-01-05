@@ -19,7 +19,7 @@
 ### Languages and Tools:
 
 <img align="left" alt="C#" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/csharp.svg"/>
-<img align="left" alt="Unity Engine" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/unity.svg" background-color="#fff" />
+<img align="left" alt="Unity Engine" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/unity.svg"/>
 <img align="left" alt="Visual Studio" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/visualstudio.svg"/>
 
 <br/>
