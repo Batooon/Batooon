@@ -27,6 +27,8 @@
 
 <img align="left" alt="Batooon's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Batooon&show_icons=true&theme=radical">
 
+<img align="left" alt="Wakatime week stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Batooon">
+
 [myTelegram]: https://t.me/AntoonBatoon
 [LinkedIn]: https://www.linkedin.com/in/anton-rozum-77317b1a1/
 [DevInst]: https://www.instagram.com/game.devlpr/
