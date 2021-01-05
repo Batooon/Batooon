@@ -3,7 +3,7 @@
 ## I'm a 17 years young guy from Ukraine💛💙
 - 👨‍🎓 I'm a student of Taras Shevchenko National University of Kyiv
 - ➗ I'm studying applied math
-- 🎮 I'm currently working on a game called [Badge Factory][]!
+- 🎮 I'm currently working on a game called [Badge Factory][Badge Factory]!
 - 💪 Fun fact: I'm into calisthenics
 
 ### Connect with me:
@@ -30,3 +30,4 @@
 [DevInst]: https://www.instagram.com/game.devlpr/
 [SportInst]: https://www.instagram.com/_antonrozum_/
 [TelegramChannel]: https://t.me/rozumstudio
+[Badge Factory]: https://play.google.com/store/apps/details?id=com.rozumstudio.badgefactory
