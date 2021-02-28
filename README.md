@@ -12,12 +12,7 @@
 
 **Languages and Tools**: `C#` `Unity Engine`
 
-<br/>
-<br/>
-
 ---
-
-<br/>
 
 <img align="left" alt="Batooon's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Batooon&show_icons=true&theme=react">
 
