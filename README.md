@@ -5,7 +5,7 @@
 ## I'm a 17 years young guy from Ukraine💛💙
 - 👨‍🎓 I'm a student of Taras Shevchenko National University of Kyiv
 - ➗ I'm studying applied math
-- 🎮 I'm currently working on a game called [Badge Factory][Badge Factory] and [PvZ][Plants vs. Zombies remake]!
+- 🎮 I'm currently working on a game called [Badge Factory][Badge Factory] and [Plants vs. Zombies remake][PvZ]!
 - 💪 Fun fact: I'm into calisthenics
 
 <br/>
