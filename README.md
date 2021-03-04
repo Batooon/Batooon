@@ -5,7 +5,7 @@
 ## I'm a 17 years young guy from Ukraine💛💙
 - 👨‍🎓 I'm a student of Taras Shevchenko National University of Kyiv
 - ➗ I'm studying applied math
-- 🎮 I'm currently working on a game called [Badge Factory][Badge Factory]!
+- 🎮 I'm currently working on a game called [Badge Factory][Badge Factory] and [PvZ][Plants vs. Zombies remake]!
 - 💪 Fun fact: I'm into calisthenics
 
 <br/>
@@ -19,3 +19,4 @@
 <img align="left" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Batooon&layout=compact&theme=react">
 
 [Badge Factory]: https://play.google.com/store/apps/details?id=com.rozumstudio.badgefactory
+[PvZ]: https://github.com/Batooon/Plants-vs-Zombies
