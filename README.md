@@ -1,5 +1,6 @@
 ### Hi there, I'm Anton. Unity developer
 
+[![wakatime](https://wakatime.com/badge/user/b02e7414-2393-4721-86bf-e58e921435ba.svg)](https://wakatime.com/@b02e7414-2393-4721-86bf-e58e921435ba)
 [LinkedIn](https://www.linkedin.com/in/anton-rozum-77317b1a1/)
 
 ## I'm a 18 years young guy from Ukraine💛💙
