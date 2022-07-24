@@ -4,7 +4,7 @@
 [![wakatime](https://wakatime.com/badge/user/b02e7414-2393-4721-86bf-e58e921435ba.svg)](https://wakatime.com/@b02e7414-2393-4721-86bf-e58e921435ba)
 [LinkedIn](https://www.linkedin.com/in/anton-rozum-77317b1a1/)
 
-## I'm a 18 years young guy from Ukraine💛💙
+## I'm a 19 years young guy from Ukraine💛💙
 - 👨‍🎓 I'm a student of Taras Shevchenko National University of Kyiv
 - ➗ I'm studying applied math
 - 🎮 I'm currently working on a game called [Badge Factory][Badge Factory] and [Plants vs. Zombies remake][PvZ]!
