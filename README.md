@@ -7,7 +7,7 @@
 ## I'm a 19 years young guy from Ukraine💛💙
 - 👨‍🎓 I'm a student of Taras Shevchenko National University of Kyiv
 - ➗ I'm studying applied math
-- 🎮 I'm currently working on a game called [Badge Factory][Badge Factory] and [Plants vs. Zombies remake][PvZ]!
+- 🎮 I'm currently working on an yet untitled game [Arcanoid][Arcanoid]!
 - 💪 Fun fact: I'm into calisthenics
 
 <br/>
@@ -22,3 +22,4 @@
 
 [Badge Factory]: https://play.google.com/store/apps/details?id=com.rozumstudio.badgefactory
 [PvZ]: https://github.com/Batooon/Plants-vs-Zombies
+[Arcanoid]: https://github.com/Batooon/Arcanoid
