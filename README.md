@@ -1,25 +1,41 @@
-### Hi there, I'm Anton. Unity developer
+# Hi there, I'm Anton 👋
 
-[![Profile badge](https://www.codewars.com/users/Anton%20Baton/badges/small)](https://www.codewars.com/users/Anton%20Baton)
-[![wakatime](https://wakatime.com/badge/user/b02e7414-2393-4721-86bf-e58e921435ba.svg)](https://wakatime.com/@b02e7414-2393-4721-86bf-e58e921435ba)
-[LinkedIn](https://www.linkedin.com/in/anton-rozum-77317b1a1/)
+![GitHub Profile Views](https://komarev.com/ghpvc/?username=Batooon&color=blue)
 
-## I'm a 19 years young guy from Ukraine💛💙
+## 🌱 I'm a Unity developer 🚀
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anton-rozum-77317b1a1/)](https://www.linkedin.com/in/anton-rozum-77317b1a1/)
+
+### 📖 About Me
+
 - 👨‍🎓 I'm a student of Taras Shevchenko National University of Kyiv
 - ➗ I'm studying applied math
-- 🎮 I'm currently working on an yet untitled game [Arcanoid][Arcanoid]!
-- 💪 Fun fact: I'm into calisthenics
+- 🔭 I'm currently working in Pixel Master Entertainment team
 
-<br/>
+### 📈 My GitHub Stats
 
-**Languages and Tools**: `C#` `Unity Engine`
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Batooon&show_icons=true&theme=radical)](https://github.com/Batooon/github-readme-stats)
+
+### 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Batooon&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+### 🗂️ Highlighted Repositories
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Batooon&repo=Arcanoid&theme=vue)](https://github.com/Batooon/Arcanoid)
+
+### 🔥 Streak Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Batooon&theme=dark)
+
+### 🌍 Top Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Batooon&layout=compact)](https://github.com/Batooon/github-readme-stats)
+
+### 🤝 Connect with me
+
+- LinkedIn: https://www.linkedin.com/in/anton-rozum-77317b1a1/
 
 ---
 
-<img align="left" alt="Batooon's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Batooon&show_icons=true&theme=react">
-
-<img align="left" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Batooon&layout=compact&theme=react">
-
-[Badge Factory]: https://play.google.com/store/apps/details?id=com.rozumstudio.badgefactory
-[PvZ]: https://github.com/Batooon/Plants-vs-Zombies
-[Arcanoid]: https://github.com/Batooon/Arcanoid
+⭐️ From [Batooon](https://github.com/Batooon)
