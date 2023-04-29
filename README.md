@@ -22,7 +22,7 @@
 
 ### 🗂️ Highlighted Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Batooon&repo=Arcanoid&theme=vue)](https://github.com/Batooon/Arcanoid)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Batooon&repo=Plants-vs-Zombies&theme=vue)](https://github.com/Batooon/Plants-vs-Zombies)
 
 ### 🔥 Streak Stats
 
