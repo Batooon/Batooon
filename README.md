@@ -2,7 +2,8 @@
 
 ![GitHub Profile Views](https://komarev.com/ghpvc/?username=Batooon&color=blue)
 
-## 🌱 I'm a Unity developer 🚀
+## 🌱 I'm a Unity developer switching to Unreal Engine 5 🚀
+## You can look at pinned repositories, they show my experience with Unreal Engine
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anton-rozum-77317b1a1/)](https://www.linkedin.com/in/anton-rozum-77317b1a1/)
 
@@ -10,7 +11,6 @@
 
 - 👨‍🎓 I'm a student of Taras Shevchenko National University of Kyiv
 - ➗ I'm studying applied math
-- 🔭 I'm currently working in Pixel Master Entertainment team
 
 ### 📈 My GitHub Stats
 
@@ -19,10 +19,6 @@
 ### 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Batooon&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-### 🗂️ Highlighted Repositories
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Batooon&repo=Plants-vs-Zombies&theme=vue)](https://github.com/Batooon/Plants-vs-Zombies)
 
 ### 🔥 Streak Stats
 
@@ -34,8 +30,4 @@
 
 ### 🤝 Connect with me
 
-- LinkedIn: https://www.linkedin.com/in/anton-rozum-77317b1a1/
-
----
-
-⭐️ From [Batooon](https://github.com/Batooon)
+- LinkedIn: www.linkedin.com/in/anton-rozum
